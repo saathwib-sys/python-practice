@@ -1,0 +1,1 @@
+# Take user input and print it
