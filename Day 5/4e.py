@@ -1,0 +1,1 @@
+# Read two numbers from the command line using sys.argv

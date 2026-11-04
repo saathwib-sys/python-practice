@@ -1,0 +1,1 @@
+# Read a file of numbers (one per line) and print their sum

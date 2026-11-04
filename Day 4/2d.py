@@ -1,0 +1,1 @@
+# Divide two numbers and handle division by zero

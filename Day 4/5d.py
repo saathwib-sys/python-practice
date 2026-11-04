@@ -1,0 +1,1 @@
+# A calculator that never crashes on bad inpu

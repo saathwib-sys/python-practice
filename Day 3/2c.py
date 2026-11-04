@@ -1,0 +1,1 @@
+# Sum of the numbers from 1 to N

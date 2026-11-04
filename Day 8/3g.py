@@ -1,0 +1,1 @@
+# Ask the user for 5 names and save them to a file, one per line

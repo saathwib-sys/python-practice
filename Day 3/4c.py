@@ -1,0 +1,1 @@
+# Print a star pattern (a right-angled triangle)

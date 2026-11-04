@@ -1,0 +1,1 @@
+# Read a list of numbers from the user and ignore invalid entries

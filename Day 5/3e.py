@@ -1,0 +1,1 @@
+# Find the average and median of a list using the statistics module
